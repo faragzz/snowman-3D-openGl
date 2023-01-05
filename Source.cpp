@@ -1,6 +1,7 @@
 #include<windows.h>
 #include<GL/freeglut.h>
 
+
 int delay = 1000 / 75;
 float xRotated = 90.0, yRotated = 0.0, zRotated = 0.0;
 double shiftXaxis = 0.0;
